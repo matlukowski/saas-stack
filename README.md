@@ -2,6 +2,8 @@
 
 A modern, production-ready SaaS starter template built with **Next.js 15**, **Clerk Authentication**, **Stripe Payments**, and **PostgreSQL**. Get your SaaS up and running in minutes, not weeks.
 
+> **New to this boilerplate?** → Check out the [Quick Start Guide](QUICKSTART.md) (10 min setup!)
+
 ## ✨ Features
 
 ### 🔐 Authentication & User Management
