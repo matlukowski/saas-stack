@@ -41,7 +41,7 @@ A modern, production-ready SaaS starter template built with **Next.js 15**, **Cl
 
 ### 🎨 UI & Styling
 - **Tailwind CSS 4** - Latest styling framework
-- **Radix UI** - Accessible components
+- **shadcn/ui** - Beautiful, accessible components (built on Radix UI)
 - Responsive design
 - Dark mode support
 - Modern dashboard layout
@@ -68,7 +68,7 @@ A modern, production-ready SaaS starter template built with **Next.js 15**, **Cl
 - **Database**: [PostgreSQL](https://www.postgresql.org/) + [Drizzle ORM](https://orm.drizzle.team/)
 - **Payments**: [Stripe](https://stripe.com/)
 - **Email**: [Resend](https://resend.com/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [Radix UI](https://www.radix-ui.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Package Manager**: [pnpm](https://pnpm.io/)
 
