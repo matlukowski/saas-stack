@@ -14,8 +14,8 @@ Make sure you have installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/saas-boilerplate.git
-cd saas-boilerplate
+git clone https://github.com/matlukowski/saas-stack.git
+cd saas-stack
 
 # Install dependencies
 pnpm install

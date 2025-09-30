@@ -70,8 +70,8 @@ A modern, production-ready SaaS starter template built with **Next.js 15**, **Cl
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourusername/saas-boilerplate.git
-cd saas-boilerplate
+git clone https://github.com/matlukowski/saas-stack.git
+cd saas-stack
 pnpm install
 ```
 

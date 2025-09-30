@@ -7,7 +7,7 @@ export function Terminal() {
   const [terminalStep, setTerminalStep] = useState(0);
   const [copied, setCopied] = useState(false);
   const terminalSteps = [
-    'git clone https://github.com/yourusername/saas-boilerplate',
+    'git clone https://github.com/matlukowski/saas-stack',
     'pnpm install',
     'pnpm setup',
     'pnpm docker:up',

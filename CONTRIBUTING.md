@@ -42,7 +42,7 @@ Enhancement suggestions are welcome! Please:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/saas-boilerplate
+git clone https://github.com/matlukowski/saas-stack
 
 # Install dependencies
 pnpm install
