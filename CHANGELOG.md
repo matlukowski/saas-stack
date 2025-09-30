@@ -13,9 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 📧 Resend email system with React templates
 - 👥 Team management with RBAC
 - 🗄️ PostgreSQL with Drizzle ORM
+- ✅ Zod validation schemas (user, team, payment, common)
 - 🎨 Tailwind CSS 4 + Radix UI components
 - 🐳 Docker Compose for local development
-- 📝 Comprehensive documentation (features, deployment, email)
+- 📝 Comprehensive documentation (features, deployment, email, validations)
 - 🚀 Setup script for quick start
 - 📊 Advanced SaaS features (API keys, webhooks, usage tracking schemas)
 - 🔄 Database migration system

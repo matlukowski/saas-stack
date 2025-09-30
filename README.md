@@ -46,6 +46,13 @@ A modern, production-ready SaaS starter template built with **Next.js 15**, **Cl
 - Dark mode support
 - Modern dashboard layout
 
+### ✅ Data Validation
+- **Zod Integration** - Type-safe runtime validation
+- Pre-built validation schemas (user, team, payment)
+- Common validators (pagination, slugs, dates)
+- Error handling utilities
+- Full TypeScript type inference
+
 ### 📊 Advanced SaaS Features (Schema Ready)
 - API Keys management
 - Webhook endpoints

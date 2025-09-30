@@ -107,6 +107,37 @@ await sendWelcomeEmail({
 });
 ```
 
+## ✅ Data Validation (Zod)
+
+### Type-safe Runtime Validation
+Complete validation schemas for all data operations:
+
+- **User validations**: Update, delete with confirmation
+- **Team validations**: Create, update, invite, remove members
+- **Payment validations**: Checkout, webhooks, subscriptions
+- **Common utilities**: Pagination, search, slugs, date ranges
+
+**Key Features:**
+- ✅ Runtime type checking
+- ✅ Automatic TypeScript type generation
+- ✅ Clear error messages
+- ✅ Reusable schemas
+- ✅ `safeParse()` helper for error handling
+
+**Location:** `lib/validations/`
+
+**Example:**
+```typescript
+import { createTeamSchema } from '@/lib/validations';
+
+const data = createTeamSchema.parse({
+  name: 'My Team'
+});
+// data is type-safe and validated
+```
+
+See [lib/validations/README.md](../lib/validations/README.md) for full documentation.
+
 ## 🗄️ Database & ORM
 
 ### PostgreSQL with Drizzle ORM
