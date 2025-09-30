@@ -18,7 +18,7 @@ export default function HomePage() {
                 ready-to-use template. Packed with modern technologies and
                 essential integrations.
               </p>
-              <div className="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0 flex gap-3">
+              <div className="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
                 <a
                   href="/sign-up"
                 >
@@ -27,18 +27,6 @@ export default function HomePage() {
                     className="text-lg rounded-full"
                   >
                     Get started
-                    <ArrowRight className="ml-2 h-5 w-5" />
-                  </Button>
-                </a>
-                <a
-                  href="/pricing"
-                >
-                  <Button
-                    size="lg"
-                    variant="outline"
-                    className="text-lg rounded-full"
-                  >
-                    View Pricing
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </Button>
                 </a>
